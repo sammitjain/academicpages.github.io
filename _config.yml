@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sammit Jain"
 title_separator          : "-"
 name                     : &name "Sammit Jain"
-description              : &description "personal description"
+description              : &description "Student"
 url                      : https://sammitjain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sammitjain.github.io"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sammitjain"
+  linkedin         : "sammitjain"
   orcid            : 
   pinterest        :
   soundcloud       :
