@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'General and Comparative Endocrinology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Fernandes, J.R.D., Jain S. and Banerjee A. (2017). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Fernandes, J.R.D., Jain S. and Banerjee A. (2017). &quot;Expression of ODC1, SPD, SPM and AZIN1 in the hypothalamus, ovary and uterus during rat estrous cycle.&quot; <i>General and Comparative Endocrinology</i>.'
 ---
 
 
