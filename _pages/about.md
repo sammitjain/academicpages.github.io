@@ -19,13 +19,13 @@ Additionally, throughout these 4 years, I've also developed a taste for biology,
 
 My academic interests include
 ======
-1. Image Processing 
-1. Computer Vision
-1. Biomedical Imaging
-1. Numerical Analysis / Methods for ODEs and PDEs
-1. Operations Research / Optimization
-1. Digital Signal Processing
-1. Programming in MATLAB, C, C++, Python
+* Image Processing 
+* Computer Vision
+* Biomedical Imaging
+* Numerical Analysis / Methods for ODEs and PDEs
+* Operations Research / Optimization
+* Digital Signal Processing
+* Programming in MATLAB, C, C++, Python
 
 I can talk to you endlessly about...
 ------
