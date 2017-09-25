@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Professional Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Computer Programming (CS F111)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "BITS Pilani University, Department of Computer Science"
+date: 2016-01-11
+location: "Goa, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Responsibilities included being in charge of evaluation of lab sessions, and, grading quizzes. Also assisted in tutorial sessions to clear student queries. 
 
 Heading 1
 ======
