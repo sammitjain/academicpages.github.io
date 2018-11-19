@@ -11,11 +11,11 @@ Firstly, my heartfelt gratitude for this amazing design template, that can be fo
 
 A very short introduction:
 =====
-Here's my [resume](https://sammitjain.github.io/files/Resume_SammitJain.pdf). 
+[This pretty much covers everything](https://sammitjain.github.io/files/Resume_SammitJain.pdf). 
 
 A short introduction:
 ======
-I'm currently a Visiting Research Fellow (Fall 2018) at The Graduate Center, City University of New York (CUNY), working with [Prof. Robert Haralick](https://scholar.google.com/citations?user=HMnF6i0AAAAJ&hl=en) in the Department of Computer Science. My research interests include Image Processing, Computer Vision and Machine Learning, especially when they intertwine with applications in biology. I was also previously an EDGer for MathWorks (the company that makes MATLAB) and research intern at DRDO, Delhi. 
+I'm currently a Visiting Research Fellow (Fall 2018) at The Graduate Center, City University of New York (CUNY), working with [Prof. Robert Haralick](https://scholar.google.com/citations?user=HMnF6i0AAAAJ&hl=en) in the Department of Computer Science. My research interests include Image Processing, Computer Vision and Machine Learning, especially when they intertwine with applications in biology. I was also previously an EDGer for MathWorks (yes, it's the company that makes MATLAB) and a Research Intern at DRDO, Delhi. 
 
 I'll be graduating from BITS PILANI University in India, in May 2019 with a rather odd choice of two degrees - A Bachelors in Electrical and Electronics Engineering (B.E. EEE) and a Masters in Mathematics (MSc. Mathematics).
 
