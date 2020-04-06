@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Sammit Jain"
   avatar           : "fullsizeoutput_13d.jpeg"
-  bio              : "Visiting Research Fellow at CUNY with the Computer Science Department. Working in the fields of Computer Vision, Image Processing and Machine Learning with applications in Biology"
-  location         : "New York, New York"
+  bio              : "Semantic Search Software Engineer at MathWorks, Inc. Working in the fields of Natural Language Processing, Computer Vision, Image Processing and Machine Learning with applications in Biology"
+  location         : "Bengaluru, Karnataka"
   employer         :
   googlescholar    : 
   email            : "sammit.bitspilani@gmail.com"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sammitji"
+  twitter          :
   vine             :
   weibo            :
   xing             :
