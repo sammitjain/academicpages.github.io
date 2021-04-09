@@ -17,7 +17,7 @@ A short introduction:
 ======
 I try my best to keep this introduction as current as possible. As of Monday, 6th April, 2020, I've been contributing at MathWorks as a Software Engineer (Semantic Search) with the Simulink Search and Diagnostics team. My current project revolves around custom Named Entity Recognition, and thus spans fields like Natual Language Processing, Search Algorithms, Deep Learning, Optimization and Programming in C++/MATLAB/Python.
 
-Earlier in Spring 2019, I got an opportunity to work as a Research Fellow with Prof. Jean-Christoph Olivo-Marin, Head of the Bioimage Analysis Group, Department of Cell Biology and Infection, Institut Pasteur, Paris. We worked on Dendritic Spine Segmentation, which spanned a multitude of disciplines like partial differential equations, optimization, differential geometry, coordinate geometry and biology. The work was accepted for ISBI 2020, and can be found [here](https://arxiv.org/pdf/2003.08809.pdf).
+Earlier in Spring 2019, I got an opportunity to work as a Research Fellow with Prof. Jean-Christoph Olivo-Marin, Head of the Bioimage Analysis Group, Department of Cell Biology and Infection, [Institut Pasteur, Paris](https://www.pasteur.fr/en). We worked on Dendritic Spine Segmentation, which spanned a multitude of disciplines like algorithmic design, partial differential equations, optimization, differential geometry, coordinate geometry and biology. The work was accepted for ISBI 2020, and can be found [here](https://arxiv.org/pdf/2003.08809.pdf).
 
 I was a Visiting Research Fellow (Fall 2018) at The Graduate Center, City University of New York (CUNY), with [Prof. Robert Haralick](https://scholar.google.com/citations?user=HMnF6i0AAAAJ&hl=en) in the Department of Computer Science. 
 
