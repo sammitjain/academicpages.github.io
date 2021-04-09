@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website. Here's a little about me."
+title: "Here's a little about me. (This website is a work in progress)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ A very short introduction:
 
 A short introduction:
 ======
-As of Monday, 6th April, 2020, I've been contributing at MathWorks as a Software Engineer (Semantic Search) with the Simulink Search and Diagnostics team. My current project revolves around custom Named Entity Recognition, and thus spans fields like Natual Language Processing, Search Algorithms, Deep Learning, Optimization and Programming in C++/MATLAB/Python.
+I try my best to keep this introduction as current as possible. As of Monday, 6th April, 2020, I've been contributing at MathWorks as a Software Engineer (Semantic Search) with the Simulink Search and Diagnostics team. My current project revolves around custom Named Entity Recognition, and thus spans fields like Natual Language Processing, Search Algorithms, Deep Learning, Optimization and Programming in C++/MATLAB/Python.
 
 Earlier in Spring 2019, I got an opportunity to work as a Research Fellow with Prof. Jean-Christoph Olivo-Marin, Head of the Bioimage Analysis Group, Department of Cell Biology and Infection, Institut Pasteur, Paris. We worked on Dendritic Spine Segmentation, which spanned a multitude of disciplines like partial differential equations, optimization, differential geometry, coordinate geometry and biology. The work was accepted for ISBI 2020, and can be found [here](https://arxiv.org/pdf/2003.08809.pdf).
 
@@ -45,8 +45,9 @@ My academic interests include
 
 I can talk to you endlessly about...
 ------
-* Football (soccer). 
-* Stand-up comedy. Major league stand-up comedy enthusiast. Let's talk about George Carlin, Jimmy Carr, Bill Burr, Bill Hicks and Billy Connolly. 
+* VIM - There really is no competition. (Emacs and VSCode users, I'm looking at you)
+* Football (soccer) 
+* Stand-up comedy
 * Quizzing. No knowledge is ever truly useless, as I've come to believe. 
 
 Still want to know more?
